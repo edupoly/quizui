@@ -16,6 +16,7 @@ function Navbar() {
             <li class="nav-item">
               <Link to="/allProducts" class="nav-link active">All Product</Link>
             </li>
+            
           </ul>
         </div>
       </nav>
